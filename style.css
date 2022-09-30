@@ -21,6 +21,7 @@
 * {
     /* background-color: transparent; */
     box-sizing: border-box;
+    font-weight: 100;
 }
 body {
     margin: 0px;
